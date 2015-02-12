@@ -17,9 +17,12 @@ Bundle 'jQuery'
 Bundle 'JavaScript-syntax'
 Bundle 'vim-scripts/JavaScript-Indent'
 Bundle 'vim-scripts/taglist.vim'
-"Bundle 'vim-scripts/AutoComplPop'
+Bundle 'vim-scripts/AutoComplPop'
 Bundle 'majutsushi/tagbar'
-Bundle 'msanders/snipmate.vim'
+Bundle "MarcWeber/vim-addon-mw-utils"
+Bundle "tomtom/tlib_vim"
+Bundle "garbas/vim-snipmate"
+Bundle "honza/vim-snippets"
 Bundle 'vim-scripts/sessionman.vim'
 "Bundle 'minibufexpl.vim'
 Bundle 'wincent/Command-T'
@@ -39,7 +42,7 @@ Bundle 'vim-scripts/LustyJuggler'
 "Bundle 'ton/vim-bufsurf'
 "Bundle 'vim-scripts/Txtfmt-The-Vim-Highlighter'
 "Bundle 'vimez/vim-showmarks'
-Bundle 'Valloric/YouCompleteMe'
+"Bundle 'Valloric/YouCompleteMe'
 Bundle 'Raimondi/delimitMate'
 Bundle 'othree/javascript-libraries-syntax.vim'
 Bundle 'vim-scripts/SyntaxComplete'
